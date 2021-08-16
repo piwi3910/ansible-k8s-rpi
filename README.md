@@ -9,7 +9,7 @@ I know i did.
 
 ## pre-requirements
 * raspberry pi's model 4 (8GB preferred) -> SD card is fine -> USN nvme is better
-* 3 x controllers + Xn x workers nodes -> mine is 3 controllers + 5 workers
+* 3 x controllers + n x workers nodes -> mine is 3 controllers + 5 workers
 * Install Ubuntu:21.04 on all of them (21.04 is needed to have working usb boot, with no problems during updates)
 
 install ansible from the requirements file not the packaged version from your OS, as they tend to be old.
